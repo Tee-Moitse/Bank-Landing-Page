@@ -2,3 +2,27 @@ High-Level Security features
 
 State-of-the-art cybersecurity measures, including multi-factor authentification and encryption,
 ensuring the safety of digital assets, which is crucial for tech professionals.
+
+ <div class="grid w-full grid-cols-1 md:grid-cols-2 gap-x-10">
+                    <div class="flex flex-col items-start gap-1">
+                        <div class="flex items-center justify-center w-12 h-12 rounded-full mb-2 bg-green-500">
+                            <span class="text-base font-bold leading-7 text-white">1</span>
+                        </div>
+                        <h3 class="text-base font-bold leading-tight text-dark-grey-900"><span styles="border-color:rgb(217, 217, 227)"></span>Visit Cache Bank Website</h3>
+                        <p>Go to Cache Bank, click "Sign up" or "Open an Account"</p>
+                    </div>
+                    <div class="grid w-full grid-cols-1 md:grid-cols-2 gap-x-10">
+                        <div class="flex flex-col items-start gap-1">
+                            <div class="flex items-center justify-center w-12 h-12 rounded-full mb-2 bg-pink-500">
+                                <span class="text-base font-bold leading-7 text-white">2</span>
+                            </div>
+                            <h3 class="text-base font-bold leading-tight text-dark-grey-900"><span styles="border-color:rgb(217, 217, 227)"></span>Change Account type</h3>
+                            <p class="mx">Select from checking, svaings, or develop-specific accounts.</p>
+                </div>
+                <div class="grid w-full grid-cols-1 md:grid-cols-2 gap-x-10">
+                    <div class="flex flex-col items-start gap-1">
+                        <div class="flex items-center justify-center w-12 h-12 rounded-full mb-2 bg-pink-500">
+                            <span class="text-base font-bold leading-7 text-white">3</span>
+                        </div>
+                        <h3 class="text-base font-bold leading-tight text-dark-grey-900"><span styles="border-color:rgb(217, 217, 227)"></span>Provide Personal Information</h3>
+                        <p>Complete the form with yo
