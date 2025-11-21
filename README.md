@@ -2,7 +2,7 @@
 
 Cache Bank is a landing page designed for software developers, showcasing tailored financial services, account plans, and community opportunities. The project focuses on creating a clear, engaging, and visually appealing website experience.
 
-Features
+# Features
 
 Developer-Focused Services: Highlights banking products, advanced security, and financial tools designed for developers.
 
@@ -14,7 +14,7 @@ Interactive Section: Utilizes JavaScript for dynamic content in one of the secti
 
 Responsive Layout: Built with Tailwind CSS for modern, clean design (partial responsiveness).
 
-Technologies Used
+# Technologies Used
 
 HTML
 
